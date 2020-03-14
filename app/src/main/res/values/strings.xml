@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sistem Pakar THT Anak</string>
+    <string name="splash_text">Sistem Pakar THT Anak</string>
+    <string name="btn_mulai_diagnosa">Mulai Diagnosa</string>
+    <string name="btn_daftar_penyakit">Daftar Penyakit</string>
+    <string name="btn_tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="btn_hasil_diagnosa">Hasil Diagnosa</string>
+    <string name="tv_gejala_dipilih">Gejala yang dipilih</string>
+    <string name="tv_anak_anda">Anak anda kemungkinan mengalami</string>
+    <string name="btn_diagnosa_ulang">Diagnosa Ulang</string>
+    <string name="btn_lihat_daftar_penyakit">Lihat Daftar Penyakit</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="penanganan">Penanganan</string>
+    <string name="tentang">Aplikasi Sistem Pakar THT Anak ini dibuat guna memenuhi sebagian persyaratan mencapai gelar Sarjana S1 pada jurusan Informatika Univeritas Amikom Yogyakarta. \n\nNama\t\t: Dedy Surya Prihantoro\nNIM\t\t\t: 16.11.0563\nProdi\t\t\t: Informatika\n\nDosen Pembimbing\t: Arif Dwi Laksito M.Kom \n\nPakar\t: dr. H. Makmuridin Gofur Sp.THT  </string>
+</resources>
