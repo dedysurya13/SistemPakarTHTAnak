@@ -4,6 +4,15 @@
 Prerequisites
 --------------
 
+![PreviewGambar](https://github.com/dedysurya13/SistemPakarTHTAnak/DeployAPK/release/Preview/Preview1.png)
+![PreviewGambar](https://github.com/dedysurya13/SistemPakarTHTAnak/DeployAPK/release/Preview/Preview2.png)
+![PreviewGambar](https://github.com/dedysurya13/SistemPakarTHTAnak/DeployAPK/release/Preview/Preview3.png)
+![PreviewGambar](https://github.com/dedysurya13/SistemPakarTHTAnak/DeployAPK/release/Preview/Preview4.png)
+![PreviewGambar](https://github.com/dedysurya13/SistemPakarTHTAnak/DeployAPK/release/Preview/Preview5.png)
+
+Prerequisites
+--------------
+
 - Android SDK v29
 - Android Build Tools v29.0.2
 
