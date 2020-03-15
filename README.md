@@ -16,9 +16,7 @@ Getting Started
 ---------------
 
 ```
-# Clone the repository if you haven't.
-$ git clone https://github.com/dedysurya13/SistemPakarTHTAnak
-$ cd SistemPakarTHTAnak
+# Download and open the app in Android Studio.
 
 # Edit the path to your local SDK
 
