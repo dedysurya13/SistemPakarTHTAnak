@@ -4,11 +4,11 @@
 Prerequisites
 --------------
 
-![PreviewGambar](https://github.com/dedysurya13/SistemPakarTHTAnak/DeployAPK/release/Preview/Preview1.png)
-![PreviewGambar](https://github.com/dedysurya13/SistemPakarTHTAnak/DeployAPK/release/Preview/Preview2.png)
-![PreviewGambar](https://github.com/dedysurya13/SistemPakarTHTAnak/DeployAPK/release/Preview/Preview3.png)
-![PreviewGambar](https://github.com/dedysurya13/SistemPakarTHTAnak/DeployAPK/release/Preview/Preview4.png)
-![PreviewGambar](https://github.com/dedysurya13/SistemPakarTHTAnak/DeployAPK/release/Preview/Preview5.png)
+![PreviewGambar](https://raw.githubusercontent.com/dedysurya13/SistemPakarTHTAnak/master/DeployAPK/release/Preview/Preview1.png?token=AKTM5AVRTPA2UCTPY4DXMYS6O6VIY)
+![PreviewGambar](https://raw.githubusercontent.com/dedysurya13/SistemPakarTHTAnak/master/DeployAPK/release/Preview/Preview2.png?token=AKTM5AUKMX43TKRNXZZTTA26O6VK4)
+![PreviewGambar](https://raw.githubusercontent.com/dedysurya13/SistemPakarTHTAnak/master/DeployAPK/release/Preview/Preview3.png?token=AKTM5AUSJ7UGEUSUJV4BYUS6O6VMI)
+![PreviewGambar](https://raw.githubusercontent.com/dedysurya13/SistemPakarTHTAnak/master/DeployAPK/release/Preview/Preview4.png?token=AKTM5AXRGJ6Z2OM756SOW4K6O6VN6)
+![PreviewGambar](https://raw.githubusercontent.com/dedysurya13/SistemPakarTHTAnak/master/DeployAPK/release/Preview/Preview5.png?token=AKTM5AQB2BMK3R232TFXJWK6O6VPS)
 
 Prerequisites
 --------------
