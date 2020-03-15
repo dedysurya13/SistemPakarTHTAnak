@@ -16,9 +16,10 @@ Getting Started
 ---------------
 
 ```
-# Download and open the app in Android Studio.
-
-# Edit the path to your local SDK
+1. Download the project.
+2. Open the project in Android Studio.
+3. Edit the path to your local SDK
+4. Run the app.
 
 # Android Studio Espesso Test path
 /app/src/androidTest/java/com/sistempakarthtanak/EspressoTest.java
