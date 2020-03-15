@@ -18,5 +18,5 @@ $ cd SistemPakarTHTAnak
 # Edit the path to your local SDK
 
 # Android Studio Espesso Test path
-/app/src/androidTest/java/com/sistempakarthtanak/DiagnosaTest.java
+/app/src/androidTest/java/com/sistempakarthtanak/EspressoTest.java
 ```
