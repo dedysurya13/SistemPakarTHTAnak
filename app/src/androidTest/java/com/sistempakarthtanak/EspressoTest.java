@@ -22,6 +22,7 @@ import static org.hamcrest.Matchers.containsString;
 @RunWith(AndroidJUnit4ClassRunner.class)
 public class EspressoTest {
 
+    //hasil yang ingin dicapai
     public static final String HasilDiagnosa = "97%";
 
     public static final String DaftarPenyakit = "Sinusitis";
@@ -32,7 +33,7 @@ public class EspressoTest {
     public ActivityTestRule<MainActivity> mActivityTestRule = new ActivityTestRule<>(MainActivity.class);
 
     @Test
-    public void diagnosaTest() {
+    public void diagnosaTest() { //testing diagnosa, dimana user memilih 3 gejala dibawah ini maka nilainya harus = 97%
         onView(withId(R.id.btn_mulai_diagnosa))
                 .perform(click());
 
@@ -56,7 +57,7 @@ public class EspressoTest {
     }
 
     @Test
-    public void daftarPenyakitTest() {
+    public void daftarPenyakitTest() { //testing daftar penyakit, ketika user memilih sinusitis maka yang muncul harus sinusitis
         onView(withId(R.id.btn_daftar_penyakit))
                 .perform(click());
 
@@ -69,7 +70,7 @@ public class EspressoTest {
     }
 
     @Test
-    public void tentangAplikasiTest() {
+    public void tentangAplikasiTest() { //testing tentang apl
         onView(withId(R.id.btn_tentang_aplikasi))
                 .perform(click());
 
