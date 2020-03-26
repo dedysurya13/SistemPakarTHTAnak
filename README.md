@@ -4,7 +4,7 @@
 Preview
 --------------
 
-<img src="dedysurya.dx.am/PreviewSisPakTHT/Preview1.png" height="320" width="180"/> <img src="dedysurya.dx.am/PreviewSisPakTHT/Preview2.png" height="320" width="180"/> <img src="dedysurya.dx.am/PreviewSisPakTHT/Preview3.png" height="320" width="180"/> <img src="dedysurya.dx.am/PreviewSisPakTHT/Preview4.png" height="320" width="180"/> <img src="dedysurya.dx.am/PreviewSisPakTHT/Preview5.png" height="320" width="180"/>
+<img src="http://dedysurya.dx.am/PreviewSisPakTHT/Preview1.png" height="320" width="180"/> <img src="http://dedysurya.dx.am/PreviewSisPakTHT/Preview2.png" height="320" width="180"/> <img src="http://dedysurya.dx.am/PreviewSisPakTHT/Preview3.png" height="320" width="180"/> <img src="http://dedysurya.dx.am/PreviewSisPakTHT/Preview4.png" height="320" width="180"/> <img src="http://dedysurya.dx.am/PreviewSisPakTHT/Preview5.png" height="320" width="180"/>
 
 Prerequisites
 --------------
