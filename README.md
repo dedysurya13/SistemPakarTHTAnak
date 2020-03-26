@@ -4,7 +4,7 @@
 Preview
 --------------
 
-<img src="http://dedysurya.dx.am/PreviewSisPakTHT/Preview1.png" height="320" width="180"/> <img src="http://dedysurya.dx.am/PreviewSisPakTHT/Preview2.png" height="320" width="180"/> <img src="http://dedysurya.dx.am/PreviewSisPakTHT/Preview3.png" height="320" width="180"/> <img src="http://dedysurya.dx.am/PreviewSisPakTHT/Preview4.png" height="320" width="180"/> <img src="http://dedysurya.dx.am/PreviewSisPakTHT/Preview5.png" height="320" width="180"/>
+<img src="https://raw.githubusercontent.com/dedysurya13/SistemPakarTHTAnak/master/DeployAPK/release/Preview/Preview1.png?token=AKTM5AWNGLY7EAUZ63F2NBK6QWHD2" height="320" width="180"/> <img src="https://raw.githubusercontent.com/dedysurya13/SistemPakarTHTAnak/master/DeployAPK/release/Preview/Preview2.png?token=AKTM5AQZ5QHMHBCHU33WVW26QWHGG" height="320" width="180"/> <img src="https://raw.githubusercontent.com/dedysurya13/SistemPakarTHTAnak/master/DeployAPK/release/Preview/Preview3.png?token=AKTM5AXVLBHXLBOWGAFN4OK6QWHHS" height="320" width="180"/> <img src="https://raw.githubusercontent.com/dedysurya13/SistemPakarTHTAnak/master/DeployAPK/release/Preview/Preview4.png?token=AKTM5AXZRYBGJM6HLBQGOM26QWHIS" height="320" width="180"/> <img src="https://raw.githubusercontent.com/dedysurya13/SistemPakarTHTAnak/master/DeployAPK/release/Preview/Preview5.png?token=AKTM5AV4777WITKZPSCLL3C6QWHKU" height="320" width="180"/>
 
 Prerequisites
 --------------
