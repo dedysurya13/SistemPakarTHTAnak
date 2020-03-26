@@ -4,7 +4,7 @@
 Preview
 --------------
 
-<img src="https://raw.githubusercontent.com/dedysurya13/SistemPakarTHTAnak/master/DeployAPK/release/Preview/Preview1.png?token=AKTM5AVRTPA2UCTPY4DXMYS6O6VIY" height="320" width="180"/> <img src="https://raw.githubusercontent.com/dedysurya13/SistemPakarTHTAnak/master/DeployAPK/release/Preview/Preview2.png?token=AKTM5AUKMX43TKRNXZZTTA26O6VK4" height="320" width="180"/> <img src="https://raw.githubusercontent.com/dedysurya13/SistemPakarTHTAnak/master/DeployAPK/release/Preview/Preview3.png?token=AKTM5AUSJ7UGEUSUJV4BYUS6O6VMI" height="320" width="180"/> <img src="https://raw.githubusercontent.com/dedysurya13/SistemPakarTHTAnak/master/DeployAPK/release/Preview/Preview4.png?token=AKTM5AXRGJ6Z2OM756SOW4K6O6VN6" height="320" width="180"/> <img src="https://raw.githubusercontent.com/dedysurya13/SistemPakarTHTAnak/master/DeployAPK/release/Preview/Preview5.png?token=AKTM5AQB2BMK3R232TFXJWK6O6VPS" height="320" width="180"/>
+<img src="https://drive.google.com/file/d/1sKz0QxF7F34mZ5wKPfpTLVaVlEuwFxoi/view?usp=sharing" height="320" width="180"/> <img src="https://drive.google.com/file/d/1rpsmTKzJ5NT5LoyxNTvsEL-SfLmMq_O8/view?usp=sharing" height="320" width="180"/> <img src="https://drive.google.com/open?id=1WejMDujDyj5QGUGE2tkkiB5zYgjo8HHa" height="320" width="180"/> <img src="https://drive.google.com/open?id=1EJNGNRH3DCWj6bFgd7HTuelVFbrb0l5O" height="320" width="180"/> <img src="https://drive.google.com/open?id=1dQ8mk4xle2tY5v7fbpXtYEWINlmH-kVo" height="320" width="180"/>
 
 Prerequisites
 --------------
