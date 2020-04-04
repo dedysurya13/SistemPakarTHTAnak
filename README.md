@@ -4,7 +4,7 @@
 Preview
 --------------
 
-<img src="https://i.ibb.co/FD0pxbF/Screenshot-20200319-010821-Sistem-Pakar-THT-Anak.png" height="320" width="180"/> <img src="https://i.ibb.co/TRg78Sp/Screenshot-20200319-010829-Sistem-Pakar-THT-Anak.png" height="320" width="180"/> <img src="https://i.ibb.co/s5W4t7P/Screenshot-20200319-010837-Sistem-Pakar-THT-Anak.png" height="320" width="180"/> <img src="https://i.ibb.co/HY8372B/Screenshot-20200319-010904-Sistem-Pakar-THT-Anak.png" height="320" width="180"/> <img src="https://i.ibb.co/kgjVfb9/Screenshot-20200319-010930-Sistem-Pakar-THT-Anak.png" height="320" width="180"/>
+<img src="https://i.ibb.co/9GZDnnc/Preview1.png" height="320" width="180"/> <img src="https://i.ibb.co/gDBnYXJ/Preview2.png" height="320" width="180"/> <img src="https://i.ibb.co/2MRK6XC/Preview3.png" height="320" width="180"/> <img src="https://i.ibb.co/RTQv6kJ/Preview4.png" height="320" width="180"/> <img src="https://i.ibb.co/JmWw0hL/Preview5.png" height="320" width="180"/>
 
 Prerequisites
 --------------
