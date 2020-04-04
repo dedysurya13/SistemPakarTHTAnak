@@ -4,7 +4,7 @@
 Preview
 --------------
 
-<img src="https://raw.githubusercontent.com/dedysurya13/SistemPakarTHTAnak/master/DeployAPK/release/Preview/Preview1.png?token=AKTM5AWNGLY7EAUZ63F2NBK6QWHD2" height="320" width="180"/> <img src="https://raw.githubusercontent.com/dedysurya13/SistemPakarTHTAnak/master/DeployAPK/release/Preview/Preview2.png?token=AKTM5AQZ5QHMHBCHU33WVW26QWHGG" height="320" width="180"/> <img src="https://raw.githubusercontent.com/dedysurya13/SistemPakarTHTAnak/master/DeployAPK/release/Preview/Preview3.png?token=AKTM5AXVLBHXLBOWGAFN4OK6QWHHS" height="320" width="180"/> <img src="https://raw.githubusercontent.com/dedysurya13/SistemPakarTHTAnak/master/DeployAPK/release/Preview/Preview4.png?token=AKTM5AXZRYBGJM6HLBQGOM26QWHIS" height="320" width="180"/> <img src="https://raw.githubusercontent.com/dedysurya13/SistemPakarTHTAnak/master/DeployAPK/release/Preview/Preview5.png?token=AKTM5AV4777WITKZPSCLL3C6QWHKU" height="320" width="180"/>
+<img src="https://i.ibb.co/FD0pxbF/Screenshot-20200319-010821-Sistem-Pakar-THT-Anak.png" height="320" width="180"/> <img src="https://i.ibb.co/TRg78Sp/Screenshot-20200319-010829-Sistem-Pakar-THT-Anak.png" height="320" width="180"/> <img src="https://i.ibb.co/s5W4t7P/Screenshot-20200319-010837-Sistem-Pakar-THT-Anak.png" height="320" width="180"/> <img src="https://i.ibb.co/HY8372B/Screenshot-20200319-010904-Sistem-Pakar-THT-Anak.png" height="320" width="180"/> <img src="https://i.ibb.co/kgjVfb9/Screenshot-20200319-010930-Sistem-Pakar-THT-Anak.png" height="320" width="180"/>
 
 Prerequisites
 --------------
