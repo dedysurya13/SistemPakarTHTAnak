@@ -1,5 +1,5 @@
 # SistemPakarTHTAnak
- Sistem Pakar THT Anak dengan Metode Forward Chaining dan Certainty Factor | Expert System for Diagnosis ENT Disease on Children Using Forward Chaining and Certainty Factor Method
+ Sistem Pakar THT Anak dengan Metode Certainty Factor | Expert System for Diagnosis ENT Disease on Children Using Certainty Factor Method
 
 Preview
 --------------
